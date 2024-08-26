@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+
+      "displayName": "John S",
+      "givenName": "John",
+      "surname": "S",
+      "identities": [
+        {
+          "signInType": "emailAddress",
+          "issuerAssignedId": "john.k@gmail.com"
+        }
+      ],
+      "password": "Pass!w0rd"
+    },
+    {
+
+      "displayName": "Mike",
+      "givenName": "Mike",
+      "surname": "L",
+      "identities": [
+        {
+          "signInType": "emailAddress",
+          "issuerAssignedId": "mike.k@gmail.com"
+        }
+      ],
+      "password": "Pass!w0rd"
+    }   
+  ]
+}
